@@ -1,0 +1,100 @@
+mysql-practice  | 2026-03-21T02:36:43.642970Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:43.758655Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:36:43.899581Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:36:43.924811Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql-practice  | 2026-03-21T02:36:43.924967Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+mysql-practice  | 2026-03-21T02:36:43.940756Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql-practice  | 2026-03-21T02:36:43.942301Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:43.942959Z 0 [ERROR] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-001146 - Table 'mysql.component' doesn't exist
+mysql-practice  | 2026-03-21T02:36:43.943067Z 0 [Warning] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-003543 - The mysql.component table is missing or has an incorrect definition.
+mysql-practice  | 2026-03-21T02:36:43.943527Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+mysql-practice  | 2026-03-21T02:36:43.948194Z 0 [ERROR] [MY-010119] [Server] Aborting
+mysql-practice  | 2026-03-21T02:36:45.719455Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.4.8)  MySQL Community Server - GPL.
+mysql-practice  | 2026-03-21T02:36:45.719652Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+mysql-practice  | 2026-03-21 11:36:53+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | 2026-03-21 11:36:54+09:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+mysql-practice  | 2026-03-21 11:36:54+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
+mysql-practice  | 2026-03-21T02:36:55.416157Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+mysql-practice  | 2026-03-21T02:36:55.758942Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.4.8) starting as process 1
+mysql-practice  | 2026-03-21T02:36:55.789688Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql-practice  | 2026-03-21T02:36:57.866327Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+mysql-practice  | mysqld: Table 'mysql.plugin' doesn't exist
+mysql-practice  | 2026-03-21T02:36:58.380865Z 0 [ERROR] [MY-010735] [Server] Could not open the mysql.plugin table. Please perform the MySQL upgrade procedure.
+mysql-practice  | 2026-03-21T02:36:58.381994Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.382322Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.382509Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.382770Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.385176Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.386475Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.387985Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.520110Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:36:58.733228Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:36:58.773214Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql-practice  | 2026-03-21T02:36:58.774157Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+mysql-practice  | 2026-03-21T02:36:58.789082Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql-practice  | 2026-03-21T02:36:58.790823Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:36:58.791457Z 0 [ERROR] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-001146 - Table 'mysql.component' doesn't exist
+mysql-practice  | 2026-03-21T02:36:58.791497Z 0 [Warning] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-003543 - The mysql.component table is missing or has an incorrect definition.
+mysql-practice  | 2026-03-21T02:36:58.791724Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+mysql-practice  | 2026-03-21T02:36:58.794467Z 0 [ERROR] [MY-010119] [Server] Aborting
+mysql-practice  | 2026-03-21T02:37:00.458041Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.4.8)  MySQL Community Server - GPL.
+mysql-practice  | 2026-03-21T02:37:00.458042Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+mysql-practice  | 2026-03-21 11:37:14+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | 2026-03-21 11:37:15+09:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+mysql-practice  | 2026-03-21 11:37:15+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
+mysql-practice  | 2026-03-21T02:37:15.841960Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+mysql-practice  | 2026-03-21T02:37:16.191340Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.4.8) starting as process 1
+mysql-practice  | 2026-03-21T02:37:16.208073Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql-practice  | 2026-03-21T02:37:18.630487Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+mysql-practice  | mysqld: Table 'mysql.plugin' doesn't exist
+mysql-practice  | 2026-03-21T02:37:19.581809Z 0 [ERROR] [MY-010735] [Server] Could not open the mysql.plugin table. Please perform the MySQL upgrade procedure.
+mysql-practice  | 2026-03-21T02:37:19.582732Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.583245Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.583473Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.584037Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.584220Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.584370Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:19.584496Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:20.009629Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:37:20.289148Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:37:20.404136Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql-practice  | 2026-03-21T02:37:20.404137Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+mysql-practice  | 2026-03-21T02:37:20.437133Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql-practice  | 2026-03-21T02:37:20.440132Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:20.441132Z 0 [ERROR] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-001146 - Table 'mysql.component' doesn't exist
+mysql-practice  | 2026-03-21T02:37:20.441133Z 0 [Warning] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-003543 - The mysql.component table is missing or has an incorrect definition.
+mysql-practice  | 2026-03-21T02:37:20.441134Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+mysql-practice  | 2026-03-21T02:37:20.443132Z 0 [ERROR] [MY-010119] [Server] Aborting
+mysql-practice  | 2026-03-21T02:37:21.938224Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.4.8)  MySQL Community Server - GPL.
+mysql-practice  | 2026-03-21T02:37:21.938833Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+mysql-practice  | 2026-03-21 11:37:49+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | 2026-03-21 11:37:49+09:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+mysql-practice  | 2026-03-21 11:37:49+09:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.4.8-1.el9 started.
+mysql-practice  | '/var/lib/mysql/mysql.sock' -> '/var/run/mysqld/mysqld.sock'
+mysql-practice  | 2026-03-21T02:37:50.770609Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+mysql-practice  | 2026-03-21T02:37:51.256759Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.4.8) starting as process 1
+mysql-practice  | 2026-03-21T02:37:51.288356Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql-practice  | 2026-03-21T02:37:53.237918Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+mysql-practice  | mysqld: Table 'mysql.plugin' doesn't exist
+mysql-practice  | 2026-03-21T02:37:53.953387Z 0 [ERROR] [MY-010735] [Server] Could not open the mysql.plugin table. Please perform the MySQL upgrade procedure.
+mysql-practice  | 2026-03-21T02:37:53.955112Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.956107Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.956854Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.958520Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.959057Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.959452Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:53.959932Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:54.517765Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:37:54.822987Z 0 [Warning] [MY-010015] [Repl] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+mysql-practice  | 2026-03-21T02:37:54.844984Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql-practice  | 2026-03-21T02:37:54.848984Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+mysql-practice  | 2026-03-21T02:37:54.866982Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql-practice  | 2026-03-21T02:37:54.866983Z 0 [Warning] [MY-010441] [Server] Failed to open optimizer cost constant tables
+mysql-practice  | 2026-03-21T02:37:54.866984Z 0 [ERROR] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-001146 - Table 'mysql.component' doesn't exist
+mysql-practice  | 2026-03-21T02:37:54.866985Z 0 [Warning] [MY-013129] [Server] A message intended for a client cannot be sent there as no client-session is attached. Therefore, we're sending the information to the error-log instead: MY-003543 - The mysql.component table is missing or has an incorrect definition.
+mysql-practice  | 2026-03-21T02:37:54.866986Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+mysql-practice  | 2026-03-21T02:37:54.870982Z 0 [ERROR] [MY-010119] [Server] Aborting
+mysql-practice  | 2026-03-21T02:37:56.421894Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.4.8)  MySQL Community Server - GPL.
+mysql-practice  | 2026-03-21T02:37:56.422057Z 0 [System] [MY-015016] [Server] MySQL Server - end.

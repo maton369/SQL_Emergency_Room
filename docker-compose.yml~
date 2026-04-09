@@ -1,0 +1,16 @@
+Lines matching: defa
+Buffer: docker-compose.yml File: /home/maton/dev/SQL_Emergency_Room/docker-compose.yml
+
+
+Buffer: *helm M-x* File: Not file
+
+   25 minibuffer-electric-default-mode
+   28 minibuffer-default-add-dired-shell-commands
+   48 windmove-display-default-keybindings
+
+Buffer: *terminal<1>* File: Not file
+
+   79 mysql-practice  | 2026-03-21T02:36:33.649754Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+  108 mysql-practice  | 2026-03-21T02:36:43.943527Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+  137 mysql-practice  | 2026-03-21T02:36:58.791724Z 0 [ERROR] [MY-000067] [Server] unknown variable 'default-authentication-plugin=mysql_native_password'.
+

@@ -1,0 +1,3 @@
+docker exec -i mysql-practice mysql -u root -prootpass sample_db < ./sql/chapter00/02_decode_city.sql
+
+docker exec -it mysql-practice mysql -u root -prootpass sample_db
